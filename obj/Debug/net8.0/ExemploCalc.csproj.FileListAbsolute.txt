@@ -1,0 +1,14 @@
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\bin\Debug\net8.0\ExemploCalc.exe
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\bin\Debug\net8.0\ExemploCalc.deps.json
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\bin\Debug\net8.0\ExemploCalc.runtimeconfig.json
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\bin\Debug\net8.0\ExemploCalc.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\bin\Debug\net8.0\ExemploCalc.pdb
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.AssemblyInfoInputs.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.AssemblyInfo.cs
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.csproj.CoreCompileInputs.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\refint\ExemploCalc.dll
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.pdb
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ExemploCalc.genruntimeconfig.cache
+C:\Users\pecc1\OneDrive\Área de Trabalho\ExemploNET\ExemploCalc\obj\Debug\net8.0\ref\ExemploCalc.dll
